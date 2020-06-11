@@ -1,0 +1,86 @@
+/*Body styling goes below */
+body {
+font-family: Arial, Helvetica Sans-Serif;
+color: white;
+background-color: black;
+}
+/* Page Container styling below */
+#page_container {
+width: 1200px;
+margin: 0 auto;
+}
+
+#logo {
+float: left;
+}
+
+#logo2 {
+float: right;
+}
+
+/* Main heading styling below */
+#main_heading {
+text-align: center;
+font-size: 25px;
+text-shadow: 5px 5px #000000;
+
+}
+
+/* Intro text styling below */
+#intro_text {
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;
+}
+
+#topic1{
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;
+}
+
+#debut{
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;
+}
+
+#world_obsession{
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;
+}
+
+#solving_the_cube{
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;	
+}
+
+#icon {
+text-align: center;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 250px;
+margin-left: 250px;
+}
+
+#bottom{
+text-align:center;
+}
+
+/* Subheading class styling below */
+.subheading {
+text-shadow: 2px 2px #000000;
+}
+
